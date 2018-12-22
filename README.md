@@ -1,3 +1,6 @@
+# ARCHIVED... 
+## new developement please refer to [yiidtw/py-mdresume](https://github.com/yiidtw/py-mdresume)
+
 Markdown Resume Generator 
 ===
 
